@@ -1,10 +1,10 @@
 /*
 " "title" : "Wall Drawing #46 (1970)",
     "description" : "Vertical lines, not straight, not touching, covering the wall evenly.""*/
-let r1 = 20;
-let r2 = 20;
-let r3 = 20;
-let r4 = 20;
+let r1 = 10;
+let r2 = 10;
+let r3 = 10;
+let r4 = 10;
 function setup() {
   createCanvas(windowWidth, windowHeight);
   background(255, 38, 0);
